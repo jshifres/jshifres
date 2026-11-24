@@ -1,4 +1,4 @@
-# Juan Eduardo Shifres
+# Juan Shifres
 
 Data Engineer | SQL Server | Python | ETL | Business Intelligence
 
